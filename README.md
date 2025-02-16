@@ -5,10 +5,8 @@ This is an iOS application built using Swift, it is a food ordering app, it  fol
 
 ## Features
 - Implements MVVM architecture
-- Uses Dependency Injection
 - Supports Networking
-- Provides Local Storage (if applicable)
-- Includes Unit Tests
+- Provides Local Storage
 
 ## Installation
 1. Clone the repository.
@@ -16,5 +14,5 @@ This is an iOS application built using Swift, it is a food ordering app, it  fol
 3. Open the project in Xcode.
 
 ## Author
-Your Name - [GitHub Profile Link](https://github.com/HaRsH8747)
+Harsh - [GitHub Profile Link](https://github.com/HaRsH8747)
 
