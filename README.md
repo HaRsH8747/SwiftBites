@@ -1,7 +1,7 @@
 # SwiftBites
 
 ## Overview
-This is an iOS application built using Swift, it  following the MVVM (Model-View-ViewModel) architectural pattern. The app ensures a clean separation of concerns, making the code more manageable and scalable.
+This is an iOS application built using Swift, it is a food ordering app, it  following the MVVM (Model-View-ViewModel) architectural pattern. The app ensures a clean separation of concerns, making the code more manageable and scalable.
 
 ## Features
 - Implements MVVM architecture
@@ -9,9 +9,6 @@ This is an iOS application built using Swift, it  following the MVVM (Model-View
 - Supports Networking
 - Provides Local Storage (if applicable)
 - Includes Unit Tests
-
-## Project Structure
-The project is structured as follows:
 
 ## Installation
 1. Clone the repository.
